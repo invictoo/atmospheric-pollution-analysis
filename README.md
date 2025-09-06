@@ -44,4 +44,5 @@ As part of a university case study, we analyzed atmospheric pollution data in Gr
 ---
 
 ## 📈 Results Example
-- Random Forest (NO₂): Train R² = 0.94, Te
+- Random Forest (NO₂): Train R² = 0.94, Test R² = 0.82  
+- Random Forest (PM10): Train R² = 0.77, Test R² = 0.60  
